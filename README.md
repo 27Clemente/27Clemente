@@ -8,9 +8,6 @@ Tenho interesse em entender como sistemas e redes funcionam, investigar problema
 
 Neste perfil, compartilho projetos pessoais, exercícios e desafios que fazem parte do meu aprendizado.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Clemente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-clemente/)
-[![GitHub](https://img.shields.io/badge/GitHub-27Clemente-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Clemente)
-
 ---
 
 ### 🎓 Sobre mim
@@ -61,9 +58,5 @@ A proposta é desenvolver meus conhecimentos em Python, APIs e banco de dados en
 
 ---
 
-### 📫 Vamos nos conectar
-
-Você pode acompanhar meus estudos e projetos ou entrar em contato pelos links abaixo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Clemente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-clemente/)
-[![GitHub](https://img.shields.io/badge/GitHub-27Clemente-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Clemente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-clemente/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Clemente)
