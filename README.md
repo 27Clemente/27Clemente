@@ -6,14 +6,10 @@ Sou Thomas Clemente, formado no Ensino Médio Técnico em Análise e Desenvolvim
 
 Tenho interesse em entender como sistemas e redes funcionam, investigar problemas e desenvolver soluções com programação. Estou aprofundando meus conhecimentos em programação, Linux e redes de computadores, com foco em construir uma carreira em segurança da informação.
 
-Neste perfil, compartilho projetos pessoais, exercícios e desafios que fazem parte do meu aprendizado.
-
 ---
 
 ### 🎓 Sobre mim
 
-- 🛡️ Cursando Cibersegurança na FIAP.
-- 💻 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI.
 - 🐍 Estudando programação e automação de tarefas.
 - 🌐 Aprendendo sobre redes, protocolos e segurança.
 - 🔎 Interesse em pentest e análise de vulnerabilidades.
@@ -21,7 +17,7 @@ Neste perfil, compartilho projetos pessoais, exercícios e desafios que fazem pa
 
 ---
 
-### 🛠️ Tecnologias que estou estudando e praticando
+### 🛠️ Tecnologias que estou estudando
 
 <p>
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
